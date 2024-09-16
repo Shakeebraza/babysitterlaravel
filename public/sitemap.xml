@@ -1,0 +1,37 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url>
+        <loc>https://www.babysitter-app.com/</loc>
+        <lastmod>2024-02-16T13:46:17+00:00</lastmod>
+        <priority>1.00</priority>
+    </url>
+    <url>
+        <loc>https://www.babysitter-app.com/de/home</loc>
+        <lastmod>2024-02-16T13:46:17+00:00</lastmod>
+        <priority>1.00</priority>
+    </url>
+    <url>
+        <loc>https://www.babysitter-app.com/en/home</loc>
+        <lastmod>2024-02-16T13:46:17+00:00</lastmod>
+        <priority>1.00</priority>
+    </url>
+    <url>
+        <loc>https://www.babysitter-app.com/en/privacy-policy</loc>
+        <lastmod>2024-02-16T13:46:17+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.babysitter-app.com/en/gtc</loc>
+        <lastmod>2024-02-16T13:46:17+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.babysitter-app.com/de/privacy-policy</loc>
+        <lastmod>2024-02-16T13:46:17+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.babysitter-app.com/de/gtc</loc>
+        <lastmod>2024-02-16T13:46:17+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+</urlset>

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /sendContactUs
+Sitemap: https://www.babysitter-app.com/sitemap.xml

@@ -1,0 +1,1025 @@
+{
+   "translation": [
+      {
+          "form": [
+              {
+                  "english": [
+                      {
+                          "IsRequired":"is required",
+                          "InvalidMail":"Invalid email.",
+                          "Min6Chars":"Min.",
+                          "InvalidPhone":"Invalid phone number."
+                      }
+                  ],
+                  "german": [
+                      {
+                          "IsRequired":"ist erforderlich",
+                          "InvalidMail":"Ungültige E-Mail.",
+                          "Min6Chars":"Mindestens 6 Zeichen.",
+                          "InvalidPhone":"Ungültige Telefonnummer"
+                      }
+                  ]
+              }
+          ],
+         "menu": [
+            {
+               "english": [
+                  {
+                     "OpenRequests":"Open Requests",
+                     "MyRequests":"My Requests",
+                     "MyApplies":"My Applies",
+                     "Groups":"Groups",
+                     "Notifications":"Notifications",
+                     "Settings":"Settings",
+                     "Feedback":"Feedback",
+                     "Logout":"Logout"
+                  }
+               ],
+               "german": [
+                  {
+                     "OpenRequests":"Offene Anfragen",
+                     "MyRequests":"Meine Anfragen",
+                     "MyApplies":"Meine Bewerbungen",
+                     "Groups":"Gruppen",
+                     "Notifications":"Benachrichtigungen",
+                     "Settings":"Einstellungen",
+                     "Feedback":"Feedback",
+                     "Logout":"Ausloggen"
+                  }
+               ]
+            }
+         ],
+         "OFFLINE": [
+            {
+               "english": [
+                  {
+                     "ScreenTitle":"OFFLINE",
+                     "P_1":"You are OFFLINE",
+                     "P_2":"Please check your internet connection."
+                  }
+               ],
+               "german": [
+                  {
+                     "ScreenTitle":"OFFLINE",
+                     "P_1":"Du bist offline",
+                     "P_2":"Bitte überprüfe deine Internetverbindung."
+                  }
+               ]
+            }
+         ],
+         "common-signin-signup-fpassword-profile": [
+            {
+               "english": [
+                  {
+                     "Email":"Email",
+                     "Password":"Password",
+                     "FirstName":"First name",
+                     "Surname":"Surname",
+                     "DOB":"Date of Birth",
+                     "Phone":"Phone",
+                     "Gender":"Gender",
+                     "GenderOPT_1":"Male",
+                     "GenderOPT_2":"Female",
+                     "GenderOPT_3":"Prefere not to say",
+                      "AddressHint":"Search your address and select it under",
+                     "Address":"Address",
+                     "OR":"or",
+                     "ConnectFB":"Connect with Facebook",
+                     "ConnectGL":"Connect with Google",
+                     "ConnectAP":"Connect with Apple",
+                     "InvalidToken":"Invalid token! Please login."
+                  }
+               ],
+               "german": [
+                  {
+                     "Email":"Email",
+                     "Password":"Passwort",
+                     "FirstName":"Vorname",
+                     "Surname":"Nachname",
+                     "DOB":"Geburtsdatum",
+                     "Phone":"Telefonnummer",
+                     "Gender":"Geschlecht",
+                     "GenderOPT_1":"Männlich",
+                     "GenderOPT_2":"Weiblich",
+                     "GenderOPT_3":"Mache lieber keine Angabe",
+                      "AddressHint":"Adresse suchen und unten auswählen",
+                     "Address":"Adresse",
+                     "OR":"Oder",
+                     "ConnectFB":"Mit Facebook verbinden",
+                     "ConnectGL":"Verbinden Sie sich mit Google",
+                     "ConnectAP":"Verbinden Sie sich mit Apple",
+                     "InvalidToken":"Ungültiger Token! Bitte loggen Sie sich ein."
+                  }
+               ]
+            }
+         ],
+         "sign-in": [
+            {
+               "english": [
+                  {
+                     "ScreenTitle":"Login",
+                     "Login":"Login",
+                     "DontHaveAccount_1":"Don't have an account?",
+                     "DontHaveAccount_2":"Register",
+                     "FPassword":"Forgot Password",
+                     "ValidationEmail_1":"Email is required.",
+                     "ValidationEmail_2":"Please enter a valid email.",
+                     "ValidationPassword_1":"Password is required.",
+                     "ValidationPassword_2":"Password must be 6 character long."
+                  }
+               ],
+               "german": [
+                  {
+                     "ScreenTitle":"Anmeldung",
+                     "Login":"Anmelden",
+                     "DontHaveAccount_1":"Sie haben kein Konto?",
+                     "DontHaveAccount_2":"Registrieren",
+                     "FPassword":"Passwort vergessen",
+                     "ValidationEmail_1":"E-Mail ist erforderlich.",
+                     "ValidationEmail_2":"Bitte geben Sie die gültige E-Mail-Adresse ein.",
+                     "ValidationPassword_1":"Passwort wird benötigt.",
+                     "ValidationPassword_2":"Das Passwort muss 6 Zeichen lang sein."
+                  }
+               ]
+            }
+         ],
+         "sign-up": [
+            {
+               "english": [
+                  {
+                     "ScreenTitle":"Register",
+                     "ByClicking":"By clicking",
+                     "AcceptTerms":"I accept the terms & conditions",
+                     "ReadTerms":"Read our terms & conditions",
+                     "Register":"Register",
+                     "ValidationEmail_1":"Email is required.",
+                     "ValidationEmail_2":"Please enter a valid email.",
+                     "ValidationPassword_1":"Password is required.",
+                     "ValidationPassword_2":"Password must be 6 character long.",
+                     "ValidationFName":"Firstname is required.",
+                     "ValidationSName":"Lastname is required.",
+                     "ValidationGender":"Gender is required.",
+                     "ValidationPhone_1":"Phone number is required.",
+                     "ValidationPhone_2":"Invalid phone number entered.",
+                     "ValidationDOB":"Date is required.",
+                     "AlreadyMember_1":"Already a member?",
+                     "AlreadyMember_2":"Login"
+                  }
+               ],
+               "german": [
+                  {
+                     "ScreenTitle":"Registrieren",
+                     "ByClicking":"Beim Klicken, akzeptiere ich",
+                     "AcceptTerms":"die Allgemeinen Geschäftsbedingungen",
+                     "ReadTerms":"Unsere Allgemeinen Geschäftsbedingungen",
+                     "Register":"Registrieren",
+                     "ValidationEmail_1":"E-Mail ist erforderlich.",
+                     "ValidationEmail_2":"Bitte geben Sie die gültige E-Mail-Adresse ein.",
+                     "ValidationPassword_1":"Passwort wird benötigt.",
+                     "ValidationPassword_2":"Das Passwort muss 6 Zeichen lang sein.",
+                     "ValidationFName":"Vorname ist erforderlich.",
+                     "ValidationSName":"Nachname ist erforderlich.",
+                     "ValidationGender":"Geschlecht ist erforderlich.",
+                     "ValidationPhone_1":"Telefonnummer ist erforderlich.",
+                     "ValidationPhone_2":"Ungültige Telefonnummer eingegeben.",
+                     "ValidationDOB":"Geburtsdatum ist erforderlich.",
+                     "AlreadyMember_1":"Bereits Mitglied?",
+                     "AlreadyMember_2":"Anmelden"
+                  }
+               ]
+            }
+         ],
+         "profile": [
+            {
+               "english": [
+                  {
+                     "ScreenTitle":"Edit Profile",
+                      "Parent":"Parent",
+                      "Babysitter":"Babysitter",
+                      "Both":"Both",
+                     "AboutME":"About Me",
+                     "Save":"Save"
+                  }
+               ],
+               "german": [
+                  {
+                     "ScreenTitle":"Profil bearbeiten",
+                      "Parent":"Elternteil",
+                      "Babysitter":"Babysitter",
+                      "Both":"Beides",
+                     "AboutME":"Über mich",
+                     "Save":"Speichern"
+                  }
+               ]
+            }
+         ],
+         "profile-incomplete": [
+            {
+               "english": [
+                  {
+                     "ScreenTitle":"Complete Profile"
+                  }
+               ],
+               "german": [
+                  {
+                     "ScreenTitle":"Profil vervollständigen"
+                  }
+               ]
+            }
+         ],
+         "forgot-password": [
+            {
+               "english": [
+                  {
+                     "ScreenTitle":"Forgot Password",
+                     "BackTo":"Back to",
+                     "Login":"Login?",
+                     "ValidationVCode":"Verification code is required.",
+                     "NewPassword_1":"Password is required.",
+                     "NewPassword_2":"Password must be 6 character long.",
+                     "ConfirmPassword_1":"Password is required.",
+                     "ConfirmPassword_2":"Password must be 6 character long.",
+                     "ConfirmPassword_3":"New and Confirm passwords are not matches!",
+                     "Submit":"Submit",
+                     "ResetPassword":"Reset Password",
+                      "EmailSentTo":"Verification code was sent to {email}",
+                     "VCode":"Verification code",
+                     "NewPassword":"New Password",
+                     "ConfirmPassword":"Confirm Password",
+                     "ErrorAccountExistance":"Email address not found."
+                  }
+               ],
+               "german": [
+                  {
+                     "ScreenTitle":"Passwort vergessen",
+                     "BackTo":"Zurück zur",
+                     "Login":"Anmeldung",
+                     "ValidationVCode":"Bestätigungscode wird benötigt.",
+                     "NewPassword_1":"Passwort wird benötigt.",
+                     "NewPassword_2":"Das Passwort muss 6 Zeichen lang sein.",
+                     "ConfirmPassword_1":"Passwort wird benötigt.",
+                     "ConfirmPassword_2":"Das Passwort muss 6 Zeichen lang sein.",
+                     "ConfirmPassword_3":"Passwörter stimmen nicht überein!",
+                     "Submit":"Weiter",
+                     "ResetPassword":"Passwort zurücksetzen",
+                      "EmailSentTo":"Bestätigungscode wurde an {email} gesendet",
+                     "VCode":"Bestätigungscode",
+                     "NewPassword":"Neues Kennwort",
+                     "ConfirmPassword":"Passwort bestätigen",
+                     "ErrorAccountExistance":"Emailadresse wurde nicht gefunden."
+                  }
+               ]
+            }
+         ],
+         "open-requests-main": [
+            {
+               "english": [
+                  {
+                     "ScreenTitle":"Requests",
+                     "ForMe":"For Me",
+                     "NearBy":"Near By"
+                  }
+               ],
+               "german": [
+                  {
+                     "ScreenTitle":"Anfragen",
+                     "ForMe":"Für mich",
+                     "NearBy":"In der Nähe"
+                  }
+               ]
+            }
+         ],
+         "common-requests-block": [
+            {
+               "english": [
+                  {
+                     "Title":"Title",
+                     "Requester":"Requester",
+                     "RequestType":"Type",
+                     "RequestType_1":"Group",
+                     "RequestType_2":"Public",
+                     "Duration":"Duration",
+                     "Detail":"Detail",
+                     "Kids":"Kids",
+                     "Kids_1":"Name",
+                     "Kids_2":"Age",
+                     "Kids_3":"Action",
+                     "Location":"Location",
+                     "Accept":"Apply",
+                     "Decline":"Decline",
+                     "Decline_1":"Confirm:",
+                     "Decline_2":"Yes",
+                     "Decline_3":"Cancel",
+                     "Edit":"Edit",
+                     "Delete":"Delete",
+                     "TypeOfApply_1":"For Free",
+                     "TypeOfApply_2":"Paid",
+                     "Amount_1":"CHF / HOURLY",
+                     "NoKidsAdded":"No kids have been added at the moment.",
+                     "KidsCanBeAdded":"Which children is the request about?",
+                     "KidsAdded":"Kids added",
+                     "Days":"Days",
+                     "Hours":"Hrs",
+                     "SameDateAndTime":"Same date and time",
+                      "AddKid": "Add kids"
+                  }
+               ],
+               "german": [
+                  {
+                     "Title":"Titel",
+                     "Requester":"Person",
+                     "RequestType":"Typ",
+                     "RequestType_1":"Gruppe",
+                     "RequestType_2":"Öffentlich",
+                     "Duration":"Dauer",
+                     "Detail":"Details",
+                     "Kids":"Kinder",
+                     "Kids_1":"Namen",
+                     "Kids_2":"Alter",
+                     "Kids_3":"Aktion",
+                     "Location":"Standort",
+                     "Accept":"Bewerben",
+                     "Decline":"Ablehnen",
+                     "Decline_1":"Bestätigen:",
+                     "Decline_2":"Ja",
+                     "Decline_3":"Abbrechen",
+                     "Edit":"Bearbeiten",
+                     "Delete":"Löschen",
+                     "TypeOfApply_1":"Kostenlos",
+                     "TypeOfApply_2":"Bezahlt",
+                     "Amount_1":"CHF pro Stunde",
+                     "NoKidsAdded":"Im Moment sind keine Kinder hinzugefügt.",
+                     "KidsCanBeAdded":"Welche Kinder betrifft die Anfrage?",
+                     "KidsAdded":"Hinzugefügte Kinder",
+                     "Days":"Tage",
+                     "Hours":"Std.",
+                     "SameDateAndTime":"Gleiches Datum und gleiche Uhrzeit",
+                      "AddKid": "Kinder hinzufügen"
+                  }
+               ]
+            }
+         ],
+         "open-requests-forme": [
+            {
+               "english": [
+                  {
+                     "NoRecords":"There are no open request at the moment.",
+                     "MessageDecline":"Are you sure to decline request?",
+                     "MessageAccept":"Are you sure to accept request ?"
+                  }
+               ],
+               "german": [
+                  {
+                     "NoRecords":"Derzeit liegen keine offenen Anfragen vor.",
+                     "MessageDecline":"Sind Sie sicher, dass Sie die Anfrage ablehnen?",
+                     "MessageAccept":"Sind Sie sicher, dass Sie die Anfrage erfüllen?"
+                  }
+               ]
+            }
+         ],
+         "open-requests-nearby": [
+            {
+               "english": [
+                  {
+                     "Google":"Google Map",
+                     "SearchLabel":"Filter with",
+                     "FilterWithKM":"Range (km)",
+                     "FilterWithPrice":"Minimum hourly rate",
+                     "FilterWithChildPreference":"Type",
+                     "FilterWithChildPreference_1":"No preference",
+                     "FilterWithChildPreference_2":"Newborn (up to 12 months)",
+                     "FilterWithChildPreference_3":"Toddler (1-4 years)",
+                     "FilterWithChildPreference_4":"Pre-school child (4-6 years)",
+                     "FilterWithChildPreference_5":"Schoolchild (from 6 years)",
+                     "SearchButton":"Filter",
+                     "ResetButton":"Reset",
+                     "NoRecords":"There are no open request at the moment.",
+                     "MessageDecline":"Are you sure to decline request?",
+                     "MessageAccept":"Are you sure to accept request?",
+                     "GPSDissallowedError":"You have disallowed location service!"
+                  }
+               ],
+               "german": [
+                  {
+                     "Google":"Google Map",
+                     "SearchLabel":"Filtern mit",
+                     "FilterWithKM":"Umkreis (km)",
+                     "FilterWithPrice":"Mindest Stundenansatz",
+                     "FilterWithChildPreference":"Typ",
+                     "FilterWithChildPreference_1":"Keine Präferenz",
+                     "FilterWithChildPreference_2":"Neugeborene (bis 12 Monate)",
+                     "FilterWithChildPreference_3":"Kleinkind (1-4 Jahre)",
+                     "FilterWithChildPreference_4":"Vorschulkind (4-6 Jahre)",
+                     "FilterWithChildPreference_5":"Schulkind (ab 6 Jahren)",
+                     "SearchButton":"Filter",
+                     "ResetButton":"Zurücksetzen",
+                     "NoRecords":"Derzeit liegen keine offenen Anfragen vor.",
+                     "MessageDecline":"Sind Sie sicher, dass Sie die Anfrage ablehnen?",
+                     "MessageAccept":"Sind Sie sicher, dass Sie die Anfrage erfüllen?",
+                     "GPSDissallowedError":"Sie haben den Ortungsdienst nicht zugelassen!"
+                  }
+               ]
+            }
+         ],
+         "request-add": [
+            {
+               "english": [
+                  {
+                     "ScreenTitleAdd":"New Request",
+                     "ScreenTitleEdit":"Edit Request",
+                     "Title":"Title",
+                      "TitlePlaceholder":"e.g. shopping, sick child, important meeting",
+                     "Description":"Description",
+                      "DescriptionPlaceholder":"Describe what needs to be done",
+                     "MaxAmount":"Max hourly rate you wish to pay",
+                     "SDate":"Start date",
+                     "EDate":"End date",
+                     "RemoveKid":"Are you sure to remove the kid out of the request?",
+                     "Visibility":"Visibility",
+                     "Location":"Location",
+                     "Home":"Home",
+                     "Other":"Other",
+                     "PostRequest":"Post Request",
+                     "Public":"Public",
+                     "Group":"Group",
+                     "Groups":"Groups",
+                     "ErrorGroup":"Selecting group is required."
+                  }
+               ],
+               "german": [
+                  {
+                     "ScreenTitleAdd":"Neue Anfrage",
+                     "ScreenTitleEdit":"Anfrage bearbeiten",
+                     "Title":"Titel",
+                      "TitlePlaceholder":"z. B. Einkaufen, krankes Kind, wichtiges Meeting",
+                      "Description":"Beschreibung",
+                      "DescriptionPlaceholder":"Beschreibe was gemacht werden werden soll",
+                     "MaxAmount":"Maximaler Stundensatz, den du bezahlen möchtest",
+                     "SDate":"Startdatum",
+                     "EDate":"Enddatum",
+                     "RemoveKid":"Möchten Sie das Kind aus der Anfrage entfernen?",
+                     "Visibility":"Sichtweite",
+                     "Location":"Standort",
+                     "Home":"Zuhause",
+                     "Other":"Andere",
+                     "PostRequest":"Anfrage einreichen",
+                     "Public":"Öffentlich",
+                     "Group":"Gruppe",
+                     "Groups":"Gruppen",
+                     "ErrorGroup":"Die Auswahl einer Gruppe ist erforderlich."
+                  }
+               ]
+            }
+         ],
+         "request-to-apply": [
+            {
+               "english": [
+                  {
+                     "ScreenTitle":"Apply",
+                     "TextToApply":"Small apply text...",
+                     "TypeOfApply":"Type of applies",
+                     "Amount":"Amount",
+                     "Apply":"Apply",
+                     "Cancle":"Cancel"
+                  }
+               ],
+               "german": [
+                  {
+                     "ScreenTitle":"Bewerben",
+                     "TextToApply":"Kleiner Bewerbungstext...",
+                     "TypeOfApply":"Art der Bewerbung",
+                     "Amount":"Betrag",
+                     "Apply":"Bewerben",
+                     "Cancle":"Abbrechen"
+                  }
+               ]
+            }
+         ],
+         "my-requests": [
+            {
+               "english": [
+                  {
+                     "ScreenTitle":"My Requests",
+                     "RewardedTo":"Rewarded To ",
+                     "NoApplies":"There are no applies at the moment.",
+                     "NoRecords":"There are no open request at the moment.",
+                     "AcceptApplies":"Are you sure to accept this applies?",
+                     "DeclineApplies":"Are you sure to decline this applies?",
+                     "RemoveRequest":"Are you sure to remove request?"
+
+                  }
+               ],
+               "german": [
+                  {
+                     "ScreenTitle":"Meine Anfragen",
+                     "RewardedTo":"Zugesagt an ",
+                     "NoApplies":"Derzeit liegen keine Bewerbungen vor.",
+                     "NoRecords":"Derzeit liegen keine offenen Anfragen vor.",
+                     "AcceptApplies":"Sind Sie sicher, dass Sie diese Bewerbung aktzeptieren wollen?",
+                     "DeclineApplies":"Sind Sie sicher, dass Sie diese Bewerbung ablehnen wollen?",
+                     "RemoveRequest":"Möchten Sie diese Anfrage wirklich entfernen?"
+                  }
+               ]
+            }
+         ],
+         "my-applies": [
+            {
+               "english": [
+                  {
+                     "ScreenTitle":"My Applies",
+                     "NoApplies":"There are no applies at the moment.",
+                     "Status":"Status",
+                     "StatusApplied":"Applied",
+                     "StatusConfirmed":"Confirmed",
+                     "StatusRejected":"Rejected",
+                     "StatusDeclined":"Declined",
+                     "Away":"away",
+                     "RemoveApplies":"Are you sure to remove applies?"
+                  }
+               ],
+               "german": [
+                  {
+                     "ScreenTitle":"Meine Bewerbungen",
+                     "NoApplies":"Derzeit liegen keine Bewerbungen vor.",
+                     "Status":"Status",
+                     "StatusApplied":"Beworben",
+                     "StatusConfirmed":"Bewerbung angenommen",
+                     "StatusRejected":"Bewerbung abgelehnt",
+                     "StatusDeclined":"Abgelehnt von mir",
+                     "Away":"entfernt",
+                     "RemoveApplies":"Sind sie sicher, dass Sie die Bewerbung entfernen möchten?"
+                  }
+               ]
+            }
+         ],
+         "groups": [
+            {
+               "english": [
+                  {
+                     "ScreenTitle":"Groups",
+                     "Memberships":"Memberships",
+                     "TitleInvitte":"Name of Invitee",
+                     "MembersInGroup":"Member in groups",
+                     "InvitedInToTheGroup":"Invitation to review",
+                     "Title_1":"Name",
+                     "Title_2":"Actions",
+                     "NoRecord":"There are no groups at the moment.",
+                     "NoRecordMemberships":"You are not in a group from someone.",
+                     "DeleteMessage":"Are you sure to remove group?",
+                     "LeavingGroupMessage":"Are you sure to leave the group?",
+                     "AcceptingGroupRequestMessage":"Are you sure to join the group?",
+                     "DeclingGroupRequestMessage":"Are you sure to decline joining the group?"
+                  }
+               ],
+               "german": [
+                  {
+                     "ScreenTitle":"Gruppen",
+                     "Memberships":"Mitgliedschaften",
+                     "TitleInvitte":"Name des Eingeladenen",
+                     "MembersInGroup":"Mitglied in Gruppen",
+                     "InvitedInToTheGroup":"Einladung zur Prüfung",
+                     "Title_1":"Name",
+                     "Title_2":"Aktionen",
+                     "NoRecord":"Im Moment gibt es keine Gruppen.",
+                     "NoRecordMemberships":"Du bist nicht in einer Gruppe von jemandem.",
+                     "DeleteMessage":"Möchten sie die Gruppe löschen?",
+                     "LeavingGroupMessage":"Sind Sie sicher, dass Sie die Gruppe verlassen?",
+                     "AcceptingGroupRequestMessage":"Sind Sie sicher, der Gruppe beizutreten?",
+                     "DeclingGroupRequestMessage":"Sind Sie sicher, dass Sie den Beitritt zur Gruppe ablehnen?"
+                  }
+               ]
+            }
+         ],
+         "groups-add": [
+            {
+               "english": [
+                  {
+                     "ScreenTitle":"New Group",
+                     "GroupName":"Group Name",
+                      "GroupNamePlaceholder":"e.g. family, overnight stay, afternoon care",
+                     "AddGroup":"Add Group"
+                  }
+               ],
+               "german": [
+                  {
+                     "ScreenTitle":"Neue Gruppe",
+                     "GroupName":"Gruppenname",
+                      "GroupNamePlaceholder":"z. B. Familie, Übernachtung, Nachmittagsbetreuung",
+                     "AddGroup":"Gruppe hinzufügen"
+                  }
+               ]
+            }
+         ],
+         "group-members": [
+            {
+               "english": [
+                  {
+                     "ScreenTitle":"Member In",
+                      "email":"E-Mail",
+                      "phone":"Phone number",
+                     "SearchBy":"Search by email",
+                      "SearchByEmail":"Search by email",
+                      "SearchByPhone":"Search by phone number (+4179...)",
+                     "AddMember":"Add member to",
+                     "AddToList":"Add to List",
+                     "SendInvitation":"Send an invitation",
+                     "MembersIn":"Members In",
+                     "NoRecord":"There are no members at the moment.",
+                     "Name":"Name",
+                      "Email":"E-Mail",
+                     "Actions":"Actions",
+                     "DeleteMessage":"Are you sure to remove member?",
+                     "ValidateEmailError":"Please enter a valid email address!",
+                      "ValidatePhoneError":"Please enter a valid phone number!",
+                     "SelectingMemberError":"Please select member from list!",
+                      "ShareText":"Please download the Babysitter app and help simplify my search for childcare.",
+                      "Pending":"pending"
+                  }
+               ],
+               "german": [
+                  {
+                     "ScreenTitle":"Mitglied in",
+                      "email":"E-Mail",
+                      "phone":"Telefonnummer",
+                     "SearchBy":"Suche per E-Mail",
+                      "SearchByEmail":"Suche per E-Mail",
+                      "SearchByPhone":"Suche per Telefonnummer (+4179...)",
+                     "AddMember":"Mitglied hinzufügen zu",
+                     "AddToList":"Mitglied hinzufügen",
+                     "SendInvitation":"Einladung schicken",
+                     "MembersIn":"Mitglieder in",
+                     "NoRecord":"Zur Zeit gibt es keine Mitglieder.",
+                     "Name":"Name",
+                     "Email":"Email",
+                     "Actions":"Aktionen",
+                     "DeleteMessage":"Wollen sie das Mitglied entfernen?",
+                     "ValidateEmailError":"Bitte gib eine gültige E-Mail-Adresse ein!",
+                      "ValidatePhoneError":"Bitte gib eine gültige Telefonnummer ein!",
+                     "SelectingMemberError":"Bitte wähle ein Mitglied aus der Liste aus!",
+                      "ShareText":"Bitte lade die Babysitter-App herunter, das vereinfacht mir die Suche nach Kinderbetreuung.",
+                      "Pending":"ausstehend"
+                  }
+               ]
+            }
+         ],
+         "notifications": [
+            {
+               "english": [
+                  {
+                     "ScreenTitle":"Notifications",
+                     "NoRecord":"There are no notification at the moment."
+                  }
+               ],
+               "german": [
+                  {
+                     "ScreenTitle":"Benachrichtigungen",
+                     "NoRecord":"Derzeit liegen keine Benachrichtigungen vor."
+                  }
+               ]
+            }
+         ],
+         "settings": [
+            {
+               "english": [
+                  {
+                     "ScreenTitle":"Settings",
+                     "EditProfile":"Edit Profile",
+                     "Kids":"Kids",
+                     "Identification":"Identification",
+                     "ChangePassword":"Change Password",
+                     "TellAFriend":"Tell A Friend",
+                     "DeleteAccount":"Delete Account",
+                     "DeleteMessage":"Are you sure to delete account?",
+                     "ShareText":"If you ever need a fantastic babysitter for your little ones, check out Babysitter-App - I think it's great!"
+                  }
+               ],
+               "german": [
+                  {
+                     "ScreenTitle":"Einstellungen",
+                     "EditProfile":"Profil bearbeiten",
+                     "Kids":"Kinder",
+                     "Identification":"Identifikation",
+                     "ChangePassword":"Kennwort ändern",
+                     "TellAFriend":"Erzähl es weiter",
+                     "DeleteAccount":"Konto löschen",
+                     "DeleteMessage":"Wollen sie das Konto löschen?",
+                     "ShareText":"Wenn du jemals einen fantastischen Babysitter für deine Kleinen brauchst, schauen dir Babysitter-App an - ich finde es super!"
+                  }
+               ]
+            }
+         ],
+         "feedback": [
+            {
+               "english": [
+                  {
+                     "ScreenTitle":"Feedback",
+                     "Subject":"Subject",
+                     "Description":"Description",
+                     "SendFeedback":"Send Feedback"
+                  }
+               ],
+               "german": [
+                  {
+                     "ScreenTitle":"Feedback",
+                     "Subject":"Titel",
+                     "Description":"Beschreibung",
+                     "SendFeedback":"Feedback abschicken"
+                  }
+               ]
+            }
+         ],
+         "kids": [
+            {
+               "english": [
+                  {
+                     "ScreenTitle":"Kids",
+                     "NoRecord":"There are no kids configured at the moment.",
+                     "DeleteMessage":"Are you sure to delete kid?"
+                  }
+               ],
+               "german": [
+                  {
+                     "ScreenTitle":"Kinder",
+                     "NoRecord":"Aktuell sind keine Kinder erfasst.",
+                     "DeleteMessage":"Möchtest du das Kind löschen?"
+                  }
+               ]
+            }
+         ],
+         "add-kids": [
+            {
+               "english": [
+                  {
+                     "ScreenTitleAdd":"Add Kid",
+                     "ScreenTitleEdit":"Edit Kid",
+                     "Name":"Name",
+                     "DOB":"Date of Birth",
+                     "Save":"Save"
+                  }
+               ],
+               "german": [
+                  {
+                     "ScreenTitleAdd":"Kind hinzufügen",
+                     "ScreenTitleEdit":"Kind bearbeiten",
+                     "Name":"Name",
+                     "DOB":"Geburtsdatum",
+                     "Save":"Speichern"
+                  }
+               ]
+            }
+         ],
+         "identification": [
+            {
+               "english": [
+                  {
+                     "ScreenTitle":"Identification",
+                      "ActualStatus":"Actual status",
+                     "Status_1":"Unidentified",
+                     "Status_2":"Pending",
+                     "Status_3":"Verified",
+                     "Status_4":"Rejected",
+                     "VerifiedMessage":"This profile is verified.",
+                      "Precondition":"Address",
+                      "AddAddressBefore": "To start the identification process, add your address to your profile",
+                     "DocumentType":"Document Type",
+                     "DocumentType_1":"Passport",
+                     "DocumentType_2":"Identification Card",
+                     "InstructionPassport":"Upload",
+                     "InstructionIDCard_1":"Front Side Of",
+                     "InstructionIDCard_2":"Back Side Of",
+                     "Save":"Save",
+                     "Error_1":"Selecting image of passport is required.",
+                     "Error_2":"Selecting image of identification front & back side is required.",
+                     "SuccessUploads":"Identification is updated"
+                  }
+               ],
+               "german": [
+                  {
+                     "ScreenTitle":"Identifikation",
+                      "ActualStatus":"Aktueller Status",
+                     "Status_1":"Nicht identifiziert",
+                     "Status_2":"Ausstehend",
+                     "Status_3":"Verifiziert",
+                     "Status_4":"Abgelehnt",
+                     "VerifiedMessage":"Dieses Profil ist verifiziert.",
+                      "Precondition":"Vorbedingung",
+                      "AddAddressBefore": "Um die Identifizierung starten zu können, füge im Profil deine Adresse hinzu.",
+                     "DocumentType":"Dokumententyp",
+                     "DocumentType_1":"Reisepass",
+                     "DocumentType_2":"Identitätskarte",
+                     "InstructionPassport":"Wähle",
+                     "InstructionIDCard_1":"Vorderseite von",
+                     "InstructionIDCard_2":"Rückseite von",
+                     "Save":"Speichern",
+                     "Error_1":"Die Auswahl des Passbildes ist erforderlich.",
+                     "Error_2":"Die Auswahl der Vorder- und Rückseite der Identitätskarte ist erforderlich.",
+                     "SuccessUploads":"Die Identifizierung ist aktualisiert."
+                  }
+               ]
+            }
+         ],
+         "change-password": [
+            {
+               "english": [
+                  {
+                     "ScreenTitle":"Change Password",
+                     "OldPassword":"Old Password",
+                     "NewPassword":"New Password",
+                     "ConfirmPassword":"Confirm Password",
+                     "ChangePassword":"Change Password"
+                  }
+               ],
+               "german": [
+                  {
+                     "ScreenTitle":"Kennwort ändern",
+                     "OldPassword":"Altes Kennwort",
+                     "NewPassword":"Neues Kennwort",
+                     "ConfirmPassword":"Bestätige das Passwort",
+                     "ChangePassword":"Kennwort ändern"
+                  }
+               ]
+            }
+         ],
+         "alert-to-show": [
+            {
+               "english": [
+                  {
+                      "update_document_status":
+                      {
+                          "TakeMeTheir":"To Identification"
+                      },
+                      "create_a_request_for_a_specific_group":
+                      {
+                          "TakeMeTheir":"To the Request"
+                      },
+                      "new_group_invitation":
+                      {
+                          "TakeMeTheir":"To the Groups"
+                      },
+                      "request_accepted":
+                      {
+                          "TakeMeTheir":"To the Request"
+                      },
+                      "reward_a_application":
+                      {
+                          "TakeMeTheir":"To the Request"
+                      },
+                      "reject_a_application":
+                      {
+                          "TakeMeTheir":"To the Request"
+                      },
+                      "delete_a_request":
+                      {
+                          "TakeMeTheir":"To the Request"
+                      },
+                      "invitee_have_been_added":
+                      {
+                          "TakeMeTheir":"To the Groups"
+                      },
+                     "SignUPV":
+                     {
+                        "Verification":"Verification",
+                        "P_1":"Please enter the verification code, that we have sent you on your email address.",
+                        "VerificationCode":"Verification Code",
+                        "Verify":"Verify",
+                         "Resend":"Resend Code",
+                        "WrongValidationCode":"Wrong verification code!"
+                     },
+                     "Applied":
+                     {
+                        "ApplySent":"Successfully applied",
+                        "P_1":"You will be notified of any feedback of your apply.",
+                        "P_2":"Meanwhile safe the date in your calendar.",
+                        "AddToCal_1":"Add to my",
+                        "AddToCal_2":"calendar",
+                        "Ok":"Continue"
+                     },
+                     "VisibilityInformation":
+                     {
+                        "Title":"Visibility",
+                        "P_1":"Public",
+                        "P_2":"The request is visible for all users.",
+                        "P_3":"Group",
+                        "P_4":"The request is only visible to members of the selected group.",
+                        "Close":"Close"
+                     },
+                     "Identification":
+                     {
+                        "P_1":"Identification for more trust",
+                        "P_2":"To make your profile more trustworthy, you can verify your profile now.",
+                        "TakeMeTheir":"Identify",
+                        "Later":"Later"
+                     },
+                     "IncompleteProfile":
+                     {
+                        "P_1":"Complete your profile",
+                        "P_2":"For better chances in the application add a picture of yourself and a short description.",
+                        "TakeMeTheir":"To my profile",
+                        "Later":"Later"
+                     },
+                     "NotificationDetail":
+                     {
+                        "Dismiss":"Dismiss"
+                     }
+                  }
+               ],
+               "german": [
+                  {
+                      "update_document_status":
+                      {
+                          "TakeMeTheir":"Zur Identification"
+                      },
+                      "create_a_request_for_a_specific_group":
+                      {
+                          "TakeMeTheir":"Zur Anfrage"
+                      },
+                      "new_group_invitation":
+                      {
+                          "TakeMeTheir":"Zu den Gruppen"
+                      },
+                      "request_accepted":
+                      {
+                          "TakeMeTheir":"Zur Anfrage"
+                      },
+                      "reward_a_application":
+                      {
+                          "TakeMeTheir":"Zur Anfrage"
+                      },
+                      "reject_a_application":
+                      {
+                          "TakeMeTheir":"Zur Anfrage"
+                      },
+                      "delete_a_request":
+                      {
+                          "TakeMeTheir":"Zur Anfrage"
+                      },
+                      "invitee_have_been_added":
+                      {
+                          "TakeMeTheir":"Zu den Gruppen"
+                      },
+                      "SignUPV":
+                     {
+                        "Verification":"Überprüfung",
+                        "P_1":"Bitte geben Sie den Bestätigungscode ein, welchen wir Ihnen per E-Mail gesendet haben.",
+                        "VerificationCode":"Bestätigungscode",
+                        "Verify":"Verifizieren",
+                         "Resend":"Erneut senden",
+                        "WrongValidationCode":"Falscher Bestätigungscode!"
+                     },
+                     "Applied":
+                     {
+                        "ApplySent":"Bewerbung erfolgreich",
+                        "P_1":"Weitere Rückmeldungen zu Ihrer Bewerbung werden Ihnen mitgeteilt.",
+                        "P_2":"Merken Sie sich den Termin unbedingt in Ihrem Kalender vor.",
+                        "AddToCal_1":"Mein",
+                        "AddToCal_2":"Kalender",
+                        "Ok":"Weiter"
+                     },
+                     "VisibilityInformation":
+                     {
+                        "Title":"Sichtweite",
+                        "P_1":"Öffentlich",
+                        "P_2":"Die Anfrage ist für alle Benutzer sichtbar.",
+                        "P_3":"Gruppe",
+                        "P_4":"Die Anfrage ist nur für Mitglieder der ausgewählten Gruppe sichtbar.",
+                        "Close":"Schliessen"
+                     },
+                     "Identification":
+                     {
+                        "P_1":"Identifikation für mehr Vertrauen",
+                        "P_2":"Um Ihr Profil vertrauenswürdiger zu machen, können Sie Ihr Profil jetzt verifizieren.",
+                        "TakeMeTheir":"Identifizieren",
+                        "Later":"Später"
+                     },
+                     "IncompleteProfile":
+                     {
+                        "P_1":"Vervollständige dein Profil",
+                        "P_2":"Für bessere Chancen bei der Bewerbung zu haben, fügen Sie ein Bild von sich und eine kurze Beschreibung hinzu.",
+                        "TakeMeTheir":"Zu meinem Profil",
+                        "Later":"Später"
+                     },
+                     "NotificationDetail":
+                     {
+                        "Dismiss":"Schliessen"
+                     }
+                  }
+               ]
+            }
+         ],
+          "show_applies": [
+              {
+                  "english": [
+                      {
+                          "AddToGroup":"Add to group"
+                      }
+                  ],
+                  "german": [
+                      {
+                          "AddToGroup":"Zur Gruppe hinzufügen"
+                      }
+                  ]
+              }
+          ]
+      }
+   ]
+}
